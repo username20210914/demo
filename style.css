@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin: 0%;
+}
+.container{
+    box-sizing: border-box;
+}
+.header{
+    background-color: gray;
+    border: 1px solid gray;
+    height: 30px;
+}
+.nav{
+    background-color: gold;
+    
+    height: 50px;
+    margin-bottom: 20px;
+}
+.banner{
+   margin-bottom:30px;
+    
+    height: 200px;
+    
+}
+/* Phần đầu: header - nav - banner */
+.container1{
+    
+    margin: 0 auto;
+    width: 1200px;
+}
+.article{
+    margin-top: 205px;
+    background-color: while;
+    height: 500px;
+}
+.article p{
+    margin: 20px;
+    margin-left: 45px;
+    font-size: 20pt;
+    font-weight: bold;
+    
+}
+
+.container2{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0 auto;
+}
+
+
+.header a{
+    font-size: 14pt;
+    font-weight: bold;
+    line-height: 30px;
+    margin-left: 120px;
+    padding-right: 100px;
+    text-decoration: none;
+    color: black;
+    
+}
+.menu>a:hover{
+    color: blue;
+}
+
+.nav > img{
+    margin-top: 5px;
+    margin-left: 50px;
+    float: left;
+    padding-right: 200px;
+}
+.menu a{
+    margin-top: 10px;
+    font-size: 14pt;
+    padding: 25px;
+    color: black;
+    text-decoration: none;
+    line-height: 50px;
+}
+.canhgiua1 > a{
+   margin-top: 15px;
+}
+.banner img{
+    height: 100%;
+    width: 100%;
+}
+.boxsp{
+   
+    float: left;
+    margin-left: 45px;
+    background-color: gray;
+    height: 150px;
+    width: 20%;
+}
+.boxsp img{
+    height: 100%;
+    width: 100%;
+}
+.tensp{
+    text-align: center;
+    font-size:larger
+
+}
+.boxsp1{
+    background-color: gray;
+    float: left;
+    margin-top: 45px;
+    margin-left: 45px;
+    
+    height: 150px;
+    width: 20%;
+}
+.boxsp1 img{
+    height: 100%;
+    width: 100%;
+}
+.boxsp>a:hover{
+    background-color: gray;
+}
+.boxsp1>a:hover{
+    background-color: gray;
+}
+.butom{
+    
+    text-align: center;
+    
+}
+hr{
+    margin-bottom: 45px;
+}
+.footer{
+    margin-top: 2px;
+    background-color: gray;
+    height: 250px;
+}
+.canbang  .boxleft{
+    
+    height: 200px;
+    width: 300px;
+    
+}
+.boxleft > b{
+    
+    font-size: 15pt;
+}
+.boxleft > p{
+    
+    font-size: 14pt;
+}
+.boxleft{
+    float: left;
+    margin-left: 30px;
+    padding-top: 35px;
+}
+.canbang .boxright{
+    float: right;
+    height: 200px;
+    width: 300px;
+    
+}
+.boxright{
+    border-radius: 2px solid red;
+}
+.boxright > b{
+    font-size: 15pt;
+}
+.boxright > p{
+    
+    font-size: 14pt;
+}
+.boxright{
+    padding-top: 35px;
+    margin-right: 450px;
+}
+.thanhnhapemail{
+    float: right;
+    border-radius: 30px;
+    border: 1px solid white;
+    height: 30px;
+    width: 100%;
+    box-shadow: inset 1px 1px 50px white;
+    margin-bottom: 30px;
+}
+.boxright button{
+    margin-left: 120px;
+    border-radius: 5px;
+}

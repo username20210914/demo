@@ -1,0 +1,15 @@
+article{
+    padding-top:100px;
+    background-color: gray;
+    height: 800px;
+}
+.textfont>p{
+    margin:20px;
+    font-variant: small-caps;
+    font-size: 20pt;
+    font-weight: bold;
+}
+.textfont{
+    padding-top:100px;
+}
+
